@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Praha289/Praha289/blob/main/githubcoverpage.jpg" width="100%" alt="Banner Image"/>
+</p>
 
 # 👋 Hello there! I'm <span style="color:#FCA61F;">Praha</span> 👨‍💻
 
@@ -21,6 +23,7 @@ Welcome to my GitHub profile! I'm a curious learner and passionate tech enthusia
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mpraharshitha2006@gmail.com)
 
 ---
+
 
 ## ⚙️ Tech Stack
 
@@ -45,11 +48,9 @@ Welcome to my GitHub profile! I'm a curious learner and passionate tech enthusia
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
 ## ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praha289&show_icons=true&theme=radical" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praha289&layout=compact&theme=radical" />
 </p>
