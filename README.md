@@ -1,7 +1,4 @@
-<!-- Banner image -->
-<p align="center">
-  <img src="https://github.com/Praha289/Praha289/blob/main/banner.png" alt="Praha's GitHub Banner" style="border-radius: 10px;"/>
-</p>
+
 
 # 👋 Hello there! I'm <span style="color:#FCA61F;">Praha</span> 👨‍💻
 
