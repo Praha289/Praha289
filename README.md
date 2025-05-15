@@ -2,7 +2,7 @@
   <img src="https://github.com/Praha289/Praha289/blob/main/githubcoverpage.jpg" width="100%" alt="Banner Image"/>
 </p>
 
-# 👋 Hello there! I'm <span style="color:#FCA61F;">Praha</span> 👨‍💻
+# 👋 Hello there! I'm <span style="color:#FCA61F;">Praharshitha</span> 👨‍💻
 
 Welcome to my GitHub profile! I'm a curious learner and passionate tech enthusiast exploring various domains of computer science and solving real-world problems.
 
